@@ -3,4 +3,4 @@ There are four versions of the PCB as we discovered issues and misleading inform
 
 After this project I have begun to focus more on the KiCAD software to design PCB fabs as a hobby due to the limitations of EAGLE only allowing 2 layers for the free version.
 
-![alt text]([http://url/to/img.png](https://github.com/ChadPauley/HapticFeedbackSystem/blob/main/CAD%20Image%201.PNG?raw=true))
+![alt text](https://github.com/ChadPauley/HapticFeedbackSystem/blob/4ea4794412a243dbb3b95dbc7f632687d4506e5e/CAD%20Image%201.PNG?raw=true)
